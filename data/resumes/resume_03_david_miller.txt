@@ -1,0 +1,26 @@
+DAVID MILLER
+david.miller@techmail.io | +1 555-876-5432 | Austin, TX
+
+SUMMARY
+Machine Learning Engineer with 2 years of experience building data pipelines and classical ML models.
+
+SKILLS
+Python, Scikit-Learn, SQL, Docker, FastAPI, Git, Linux, Machine Learning, Data Science, Pandas, NumPy
+
+EDUCATION
+Bachelor of Science in Computer Science
+University of Texas at Austin
+2018 - 2022
+
+EXPERIENCE
+Junior Machine Learning Engineer
+Apex Analytics
+Jul 2022 - Present
+- Built tabular prediction pipelines using Scikit-Learn and Pandas.
+- Designed REST endpoints using FastAPI and containerized applications with Docker.
+- Wrote SQL aggregations for feature store ingestion.
+
+Data Analyst Intern
+Austin Data Corp
+Jan 2022 - Jun 2022
+- Conducted exploratory data analysis and statistical validation.

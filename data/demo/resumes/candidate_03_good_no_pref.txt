@@ -1,0 +1,21 @@
+SAMUEL OKAFOR
+samuel.okafor.fictional@techwork.io | +1 555-019-4455 | Austin, TX
+
+SUMMARY
+Software and ML Engineer with strong foundation in core algorithms, SQL database management, and PyTorch development.
+
+SKILLS
+Python, PyTorch, Scikit-Learn, SQL, Git, Linux, Machine Learning, Data Science
+
+EDUCATION
+Bachelor of Science in Computer Science
+University of Texas at Austin
+2020 - 2024
+
+EXPERIENCE
+Junior ML Developer
+LoneStar Tech
+May 2024 - Present
+- Developed predictive models with Scikit-Learn and PyTorch.
+- Analyzed large tabular datasets with SQL and Linux command-line utilities.
+- Collaborated using Git for version control.

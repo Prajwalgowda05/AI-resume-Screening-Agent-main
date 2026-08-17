@@ -1,0 +1,18 @@
+ZOE HERNANDEZ
+zoe.hernandez.fictional@studentuni.edu | +1 555-019-6677 | Chicago, IL
+
+SUMMARY
+Recent Computer Science graduate with extensive academic coursework in PyTorch, Scikit-Learn, and natural language processing.
+
+SKILLS
+Python, PyTorch, Scikit-Learn, SQL, Git, Linux, Docker, FastAPI, Transformers, Machine Learning, Data Science
+
+EDUCATION
+Bachelor of Science in Computer Science
+University of Illinois Urbana-Champaign
+2022 - 2026
+
+PROJECTS
+Academic NLP Benchmark
+- Implemented PyTorch model architectures for text sentiment analysis during senior coursework.
+- Built SQL database for query analysis and shared code on Git.

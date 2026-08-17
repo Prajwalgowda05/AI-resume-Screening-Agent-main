@@ -1,0 +1,25 @@
+DANIEL FROST
+daniel.frost.fictional@cogsci.net | +1 555-019-7788 | New York, NY
+
+SUMMARY
+Cognitive systems researcher with 2 years of experience modeling biological intelligence, perception architectures, and computational learning models.
+
+SKILLS
+Python, Git
+
+EDUCATION
+Master of Science in Cognitive Science
+Columbia University
+2022 - 2024
+
+Bachelor of Arts in Psychology
+NYU
+2018 - 2022
+
+EXPERIENCE
+Computational Research Associate
+NeuroCognitive Lab
+Jun 2024 - Present
+- Formulated deep learning experiments and neural network representations for perceptual data.
+- Processed complex relational datasets and optimized algorithmic performance on Linux clusters.
+- Managed code versioning using Git and scripted pipeline automation in Python.

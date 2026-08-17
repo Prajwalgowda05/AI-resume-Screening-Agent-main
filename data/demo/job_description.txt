@@ -1,0 +1,22 @@
+Job Title: Junior AI Research Associate
+
+COMPANY OVERVIEW
+Nexus AI Labs is a cutting-edge research laboratory specializing in applied natural language processing and multimodal intelligence.
+
+ROLE OVERVIEW
+We are seeking a motivated Junior AI Research Associate to participate in advancing model evaluation, benchmarking, and machine learning pipeline development.
+
+RESPONSIBILITIES
+- Train, fine-tune, and evaluate machine learning models and NLP architectures.
+- Implement reproducible data processing and inference pipelines using Python.
+- Query experimental datasets using SQL and maintain version control with Git.
+- Deploy backend research prototypes and evaluation endpoints.
+
+MINIMUM REQUIREMENTS
+- Bachelor's Degree or Master's Degree in Computer Science, Data Science, Artificial Intelligence, or related quantitative field.
+- Minimum 1+ years of practical experience in machine learning or software engineering.
+- Required Technical Skills: Python, PyTorch, Scikit-Learn, SQL, Git, Linux.
+
+PREFERRED QUALIFICATIONS
+- Experience with Docker and FastAPI for containerized service deployment.
+- Familiarity with modern Transformer architectures, BERT, and Large Language Models.

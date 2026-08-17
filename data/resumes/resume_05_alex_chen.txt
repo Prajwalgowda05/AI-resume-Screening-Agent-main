@@ -1,0 +1,21 @@
+ALEX CHEN
+alex.chen@clouddev.com | +1 555-654-3210 | Seattle, WA
+
+SUMMARY
+Full-stack and backend developer with strong Python, FastAPI, and Kubernetes expertise.
+
+SKILLS
+Python, FastAPI, SQL, PostgreSQL, Docker, Kubernetes, Git, Linux, JavaScript, React
+
+EDUCATION
+Bachelor of Science in Computer Science
+University of Washington
+2019 - 2023
+
+EXPERIENCE
+Backend Software Engineer
+CloudScale Tech
+Aug 2023 - Present
+- Designed microservices architecture using FastAPI and PostgreSQL.
+- Managed Kubernetes clusters and continuous integration pipelines.
+- Integrated REST APIs with React frontend applications.

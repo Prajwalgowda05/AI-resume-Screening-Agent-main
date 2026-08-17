@@ -1,0 +1,19 @@
+KEVIN PARK
+kevin.park.fictional@webbasics.io | +1 555-019-9900 | San Diego, CA
+
+SUMMARY
+Junior web developer with introductory background in Python scripting and frontend styling.
+
+SKILLS
+Python, HTML, CSS, JavaScript
+
+EDUCATION
+Bachelor of Arts in General Studies
+San Diego Community College
+2022 - 2024
+
+EXPERIENCE
+Web Developer Intern
+PixelCraft Studio
+Jan 2025 - Jun 2025
+- Built basic web pages and assisted with light Python scripting tasks.

@@ -1,0 +1,20 @@
+LUCAS SILVA
+lucas.silva@frontendhub.com | +1 555-456-7890 | Miami, FL
+
+SUMMARY
+Frontend engineer specialized in modern UI development with React and JavaScript.
+
+SKILLS
+JavaScript, React, HTML, CSS, Git, Docker
+
+EDUCATION
+Bachelor of Science in Web Development
+Florida International University
+2020 - 2024
+
+EXPERIENCE
+Frontend Developer
+WebCraft Agency
+Jan 2024 - Present
+- Built responsive user interfaces and single page applications in React.
+- Collaborated with UI/UX designers on component library implementations.

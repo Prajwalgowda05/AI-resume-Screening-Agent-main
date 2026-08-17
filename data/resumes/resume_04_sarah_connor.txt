@@ -1,0 +1,30 @@
+SARAH CONNOR
+sarah.connor@cyberdyne.org | +1 555-432-1098 | Los Angeles, CA
+
+SUMMARY
+AI Researcher specialized in computer vision, PyTorch, and deep neural network optimization.
+
+SKILLS
+Python, PyTorch, Machine Learning, Deep Learning, Git, Linux, Docker, Computer Vision
+
+EDUCATION
+Master of Science in Artificial Intelligence
+University of California, Los Angeles
+2021 - 2023
+
+Bachelor of Science in Electrical Engineering
+UCLA
+2017 - 2021
+
+EXPERIENCE
+Computer Vision Researcher
+Autonomous Vision Systems
+Sep 2023 - Present
+- Trained convolutional and vision transformer models using PyTorch on Linux GPU clusters.
+- Improved model inference speed by 35% with TensorRT optimizations.
+- Managed version control with Git and deployed containers via Docker.
+
+Research Assistant
+UCLA Vision Lab
+Jan 2022 - Jun 2023
+- Authored papers on self-supervised representation learning.

@@ -1,0 +1,30 @@
+LIAM VANCE
+liam.vance.fictional@aimail.net | +1 555-019-3344 | Seattle, WA
+
+SUMMARY
+Machine Learning Engineer with 2 years of experience in model training, dataset preprocessing, and microservice deployment.
+
+SKILLS
+Python, PyTorch, Scikit-Learn, SQL, Git, Linux, Docker, FastAPI, Machine Learning, Data Science
+
+EDUCATION
+Master of Science in Artificial Intelligence
+University of Washington
+2022 - 2024
+
+Bachelor of Science in Computer Science
+Western Washington University
+2018 - 2022
+
+EXPERIENCE
+Machine Learning Engineer
+Cascade Intelligence
+Jul 2024 - Present
+- Trained supervised learning and classification pipelines using PyTorch and Scikit-Learn.
+- Wrote complex SQL queries to aggregate training metrics.
+- Deployed FastAPI prediction endpoints with Docker in a Linux environment.
+
+AI Engineering Intern
+Seattle Data Works
+Jan 2023 - Jun 2023
+- Built automated model evaluation scripts using Python and Git.

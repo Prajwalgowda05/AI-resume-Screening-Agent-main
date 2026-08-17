@@ -1,0 +1,20 @@
+EMILY WATSON
+emily.watson@devopscloud.io | +1 555-678-1234 | Denver, CO
+
+SUMMARY
+DevOps and Cloud Infrastructure Engineer specializing in Kubernetes and CI/CD pipelines.
+
+SKILLS
+Docker, Kubernetes, Linux, Git, Python, AWS
+
+EDUCATION
+Bachelor of Science in Computer Systems
+University of Colorado Boulder
+2019 - 2023
+
+EXPERIENCE
+Cloud Operations Engineer
+InfraPeak Solutions
+Jun 2023 - Present
+- Automated container deployments across multiple Kubernetes clusters.
+- Configured Linux monitoring agents and security hardening.

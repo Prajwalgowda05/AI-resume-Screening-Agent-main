@@ -1,0 +1,26 @@
+ARTHUR PENDELTON
+arthur.pendelton.fictional@legacycorp.org | +1 555-019-5566 | Boston, MA
+
+SUMMARY
+Principal Backend Architect with 8 years of experience building enterprise systems in Java and C++.
+
+SKILLS
+Java, C++, SQL, Git, Linux, Docker, PostgreSQL, Microservices
+
+EDUCATION
+Bachelor of Science in Computer Science
+Boston University
+2012 - 2016
+
+EXPERIENCE
+Principal Software Engineer
+Enterprise Systems Corp
+Jan 2019 - Present
+- Designed high-throughput financial backend services using Java and PostgreSQL.
+- Maintained Docker orchestration and Linux server infrastructure.
+- Mentored junior engineers and led Git code reviews.
+
+Software Engineer
+Tech Core Solutions
+Jun 2016 - Dec 2018
+- Built relational database schemas and optimized SQL query execution plans.

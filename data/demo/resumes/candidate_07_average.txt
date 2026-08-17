@@ -1,0 +1,21 @@
+CHLOE BENNETT
+chloe.bennett.fictional@dataflow.org | +1 555-019-8899 | Atlanta, GA
+
+SUMMARY
+Data Engineer with 1 year of experience building relational database pipelines and Python automation scripts.
+
+SKILLS
+Python, SQL, Git, Linux, Pandas, PostgreSQL
+
+EDUCATION
+Bachelor of Science in Information Technology
+Georgia State University
+2020 - 2024
+
+EXPERIENCE
+Junior Data Engineer
+Atlanta DataFlow
+Jul 2024 - Present
+- Wrote ETL scripts in Python to transform operational data into PostgreSQL databases.
+- Automated daily SQL reporting routines on Linux servers.
+- Tracked pipeline code updates in Git.

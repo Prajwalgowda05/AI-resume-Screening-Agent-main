@@ -1,0 +1,30 @@
+RAJESH KUMAR
+rajesh.kumar@ai-research.edu | +1 555-987-6543 | Chicago, IL
+
+SUMMARY
+Ph.D. in Computer Science with a focus on Natural Language Processing, BERT models, and Transformers.
+
+SKILLS
+Python, PyTorch, Transformers, BERT, Large Language Models, Machine Learning, Data Science, Git, Linux, SQL
+
+EDUCATION
+Doctor of Philosophy in Computer Science
+University of Chicago
+2020 - 2024
+
+Master of Science in Computer Science
+IIT Bombay
+2018 - 2020
+
+EXPERIENCE
+Postdoctoral AI Researcher
+NLP Innovation Center
+Jun 2024 - Present
+- Conducted research on transformer attention pruning and low-rank adaptation.
+- Published 3 papers in premier NLP conferences.
+- Built open-source PyTorch toolkits for LLM benchmarking.
+
+Graduate Research Assistant
+University of Chicago
+Sep 2020 - May 2024
+- Evaluated masked language models and sequence-to-sequence transformers.

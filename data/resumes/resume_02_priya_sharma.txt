@@ -1,0 +1,35 @@
+PRIYA SHARMA
+priya.sharma@example.com | +1 555-234-5678 | San Francisco, CA
+
+SUMMARY
+Senior AI Research Engineer with extensive background in deep learning, PyTorch, Large Language Models, and production ML pipelines.
+
+SKILLS
+Python, PyTorch, Scikit-Learn, SQL, Docker, FastAPI, Transformers, BERT, Large Language Models, Git, Linux, Machine Learning, Data Science
+
+EDUCATION
+Master of Science in Computer Science
+Stanford University
+2020 - 2022
+
+Bachelor of Technology in Computer Science
+IIT Delhi
+2016 - 2020
+
+EXPERIENCE
+AI Research Engineer
+DeepAI Labs
+Jun 2022 - Present
+- Fine-tuned transformer architectures and LLMs for domain-specific NLP benchmarks.
+- Deployed inference microservices with FastAPI and Docker on Linux clusters.
+- Authored custom evaluation pipelines using PyTorch and Scikit-Learn.
+
+Machine Learning Intern
+Tech Research Institute
+Jan 2022 - May 2022
+- Conducted experiments on representation learning and semantic similarity metrics.
+- Optimized SQL database queries for multi-gigabyte tabular datasets.
+
+PROJECTS
+OpenSource LLM Benchmarker
+Engineered an automated benchmarking suite for HuggingFace transformer models.

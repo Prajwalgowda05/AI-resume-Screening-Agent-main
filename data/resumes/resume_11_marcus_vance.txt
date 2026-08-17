@@ -1,0 +1,25 @@
+MARCUS VANCE
+marcus.vance@airesearch.org | +1 555-890-4321 | Pittsburgh, PA
+
+SUMMARY
+AI Research Scientist with deep expertise in PyTorch, Machine Learning algorithms, Scikit-Learn, and Python.
+
+SKILLS
+Python, PyTorch, Scikit-Learn, Machine Learning, Data Science, SQL, Git, Linux, Docker, FastAPI
+
+EDUCATION
+Master of Science in Machine Learning
+Carnegie Mellon University
+2021 - 2023
+
+Bachelor of Science in Computer Science
+Penn State
+2017 - 2021
+
+EXPERIENCE
+Machine Learning Scientist
+Autonomous Robotics Lab
+Oct 2023 - Present
+- Trained reinforcement learning and transformer perception pipelines in PyTorch.
+- Benchmarked ML models against industry datasets using Scikit-Learn.
+- Deployed real-time inference microservices with FastAPI and Docker.

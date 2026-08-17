@@ -1,0 +1,20 @@
+FATIMA MANSOOR
+fatima.mansoor@softwaredev.io | +1 555-321-7654 | New York, NY
+
+SUMMARY
+Java and enterprise backend engineer with Oracle database and distributed systems background.
+
+SKILLS
+Java, C++, SQL, PostgreSQL, Git, Linux, Docker, Spring Boot
+
+EDUCATION
+Bachelor of Science in Information Technology
+New York University
+2019 - 2023
+
+EXPERIENCE
+Software Developer
+Global FinTech Corp
+Jul 2023 - Present
+- Built transaction processing services in Java and Spring Boot.
+- Maintained relational schemas and indexing in PostgreSQL.

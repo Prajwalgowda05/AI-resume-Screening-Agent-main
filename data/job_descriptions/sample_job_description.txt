@@ -1,0 +1,16 @@
+Job Title: Junior AI Research Associate
+
+RESPONSIBILITIES
+- Design, implement, and evaluate machine learning models and NLP algorithms.
+- Build benchmarking and evaluation suites for deep learning architectures.
+- Collaborate with the research engineering team to deploy backend REST APIs.
+
+REQUIREMENTS
+- Bachelor's Degree or Master's Degree in Computer Science, Data Science, or related field.
+- Minimum 1+ years of experience with machine learning and software development.
+- Strong proficiency in Python, PyTorch, and Scikit-Learn.
+- Solid understanding of Git, Linux, and SQL.
+
+PREFERRED QUALIFICATIONS
+- Experience with Docker, Kubernetes, and FastAPI.
+- Familiarity with Large Language Models, Transformers, and BERT.

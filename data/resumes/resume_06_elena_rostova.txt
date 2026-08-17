@@ -1,0 +1,24 @@
+ELENA ROSTOVA
+elena.rostova@datascience.net | +1 555-789-0123 | Boston, MA
+
+SUMMARY
+Data Scientist with expertise in predictive modeling, statistical analysis, and machine learning.
+
+SKILLS
+Python, Scikit-Learn, Machine Learning, Data Science, SQL, Pandas, NumPy, Git
+
+EDUCATION
+Master of Science in Statistics
+Boston University
+2022 - 2024
+
+Bachelor of Science in Mathematics
+Boston College
+2018 - 2022
+
+EXPERIENCE
+Data Scientist Intern
+BioStat Analytics
+Jan 2024 - Jun 2024
+- Built predictive regression and classification pipelines using Scikit-Learn.
+- Analyzed large health datasets utilizing SQL and Pandas.

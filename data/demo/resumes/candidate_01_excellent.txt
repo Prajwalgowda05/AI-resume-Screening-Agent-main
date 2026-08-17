@@ -1,0 +1,31 @@
+MAYA LIN
+maya.lin.fictional@nexusmail.org | +1 555-019-2831 | San Francisco, CA
+
+SUMMARY
+AI Research Engineer with 3 years of hands-on experience developing deep learning architectures, PyTorch pipelines, and LLM benchmarking systems.
+
+SKILLS
+Python, PyTorch, Scikit-Learn, SQL, Git, Linux, Docker, FastAPI, Transformers, BERT, Large Language Models, Machine Learning, Data Science
+
+EDUCATION
+Master of Science in Computer Science
+Stanford University
+2021 - 2023
+
+Bachelor of Science in Computer Science
+UC Berkeley
+2017 - 2021
+
+EXPERIENCE
+Junior AI Researcher
+DeepNeural Systems
+Jun 2023 - Present
+- Fine-tuned transformer models and evaluated embedding representations using PyTorch.
+- Engineered automated data processing pipelines with Scikit-Learn and SQL.
+- Containerized model evaluation benchmarks using Docker and FastAPI on Linux GPU clusters.
+
+Machine Learning Intern
+Frontier AI Labs
+Jan 2022 - Dec 2022
+- Implemented BERT sequence classification models and optimized inference speed.
+- Maintained code repositories using Git and structured reproducible ML workflows.
